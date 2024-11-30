@@ -4,7 +4,8 @@
   "description": "Required dependencies are under /node_modules folder",
   "main": "1-intro.js",
   "scripts": {
-    "start": "node apps.js"
+    "start": "node app.js",
+    "dev":   "nodemon app.js"
   },
   "keywords": [],
   "author": "",
