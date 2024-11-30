@@ -1,3 +1,5 @@
+git config user.name "Alvaro Couto"
+git config user.email "alvaroccouto@gmail.com"
 git init
 git add .
 git commit -m "first commit"
